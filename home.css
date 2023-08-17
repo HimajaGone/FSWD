@@ -184,7 +184,7 @@
     opacity: 5;
 }
 .container {
-    margin-top: 10%;
+    margin-top: 1%;
     display: flex;
     width: 100%;
     flex:0 0 auto;
@@ -221,8 +221,12 @@
     font-size: 300%;
 
   }
+  .sub-heading{
+   color: #000;
+  }
   .section2{
     background-color: azure;
+    padding: 30px;
   }
   .section1{
     background-color: #efefef;
